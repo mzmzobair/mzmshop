@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MZM Shopping</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>MZM Shopping</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Products</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="featured-products">
+			<h2>Featured Products</h2>
+			<ul>
+				<li>
+					<a href="#">
+						<img src="product1.jpg" alt="Product 1">
+						<h3>Product 1</h3>
+						<p>$10.99</p>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="product2.jpg" alt="Product 2">
+						<h3>Product 2</h3>
+						<p>$19.99</p>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="product3.jpg" alt="Product 3">
+						<h3>Product 3</h3>
+						<p>$24.99</p>
+					</a>
+				</li>
+			</ul>
+		</section>
+		<section id="new-products">
+			<h2>New Products</h2>
+			<ul>
+				<li>
+					<a href="#">
+						<img src="product4.jpg" alt="Product 4">
+						<h3>Product 4</h3>
+						<p>$12.99</p>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="product5.jpg" alt="Product 5">
+						<h3>Product 5</h3>
+						<p>$9.99</p>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="product6.jpg" alt="Product 6">
+						<h3>Product 6</h3>
+						<p>$29.99</p>
+					</a>
+				</li>
+			</ul>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 MZM Shopping. All rights reserved.</p>
+	</footer>
+</body>
+</html>
